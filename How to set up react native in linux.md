@@ -33,7 +33,16 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
-
-6. Install Emulator
+## 6. Install Emulator
 ----------------------------------
 ...
+### If errors:
+
+#### Failed to construct transformer
+ ```solution is to upgrade or downgrade node js version using nvm  ```
+
+- Install nvm by :
+``` 
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash 
+  nvm install 15.0.0
+  nvm use 15.0.0```
