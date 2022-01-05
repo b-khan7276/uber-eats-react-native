@@ -38,11 +38,16 @@ export PATH=$PATH:$ANDROID_HOME/platform-tools
 ...
 ### If errors:
 
-#### Failed to construct transformer
+#### * Failed to construct transformer
  ```solution is to upgrade or downgrade node js version using nvm  ```
 
 - Install nvm by :
 ``` 
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash 
   nvm install 15.0.0
-  nvm use 15.0.0```
+  nvm use 15.0.0 
+  ```
+ 
+ # Error running adb: Error running app. Error: Activity not started
+ 
+ 
