@@ -16,7 +16,7 @@
   ## In react native thing are default shown in a column 
   
 ###  Code for the reference 
-  ```
+  ```javascript
   export default function HeaderTabs() {
     return (
         <View style={{flexDirection:"row", alignSelf:"center"}}>
@@ -45,7 +45,7 @@ const HeaderButton = (buttons) =>
 
 ### using useState to change the color of the buttons:
 
-```
+```javascript
 <!-- Header coder  -->
   export default function HeaderTabs() {
 
