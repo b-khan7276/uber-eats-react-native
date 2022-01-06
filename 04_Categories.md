@@ -34,5 +34,7 @@
   ))}
 ```
 ## To counter the error of index key
-- To counter the error of index key I pass `index={key} ` in a view component.
+*Warning: Each child in a list should have a unique "key" prop.
+*
+- To counter the error of index key I pass `key={index} ` in a view component.
 
