@@ -48,6 +48,17 @@ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
   nvm use 15.0.0 
   ```
  
- # Error running adb: Error running app. Error: Activity not started
+ ### Error running adb: Error running app. Error: Activity not started
+ Install adb 
  
+ ### npm ERR! ERESOLVE unable to resolve dependency tree
+ 
+- Remove the package-lock.json file
+- Remove the node_modules directory (-rfv = recursive, force, verbose)
+- Install nvm (Node Version Manager)
+- Configure nvm
+- Load nvm
+- Use nvm to install node v12
+- Tell this project to use node v12
+- Use npm to install the packages
  
