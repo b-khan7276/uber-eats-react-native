@@ -22,3 +22,7 @@ Or
   npm i react-native-google-places-autocomplete
   ```
   
+- // "rnf"  to start with 
+- add google search bar 
+- add ionicon  icon 'location-sharp'
+- add AntDesign icon 'clockcircle'
