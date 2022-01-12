@@ -1,0 +1,2 @@
+# BottomTabs.js
+
