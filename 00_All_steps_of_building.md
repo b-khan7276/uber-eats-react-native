@@ -16,3 +16,7 @@
 # Adding apis
 
 [![portfolio](https://img.shields.io/badge/link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/b-khan7276/uber-eats-react-native/blob/main/06_adding_apis.md)
+# BottomTabs.js
+[![portfolio](https://img.shields.io/badge/link-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/b-khan7276/uber-eats-react-native/blob/main/07_BottomTabs.md)
+
+
